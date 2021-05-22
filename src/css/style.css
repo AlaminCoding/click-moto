@@ -5,6 +5,10 @@
   src: url("../font/Aileron-Bold.otf");
 }
 
+body {
+  overflow-x: hidden;
+}
+
 .navigation-bar {
   height: 64px;
   width: 100%;
